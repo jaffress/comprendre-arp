@@ -21,7 +21,7 @@ Le switch (commutateur) travaille à la couche 2 et utilise la table CAM pour di
 
 | Commande | Équipement | Utilité |
 | :--- | :--- | :--- |
-| `arp -a` | PC / Windows | Affiche la table de correspondance IP/MAC apprise.<br>+1 |
-| `arp -d` | PC / Windows | Efface la table ARP pour forcer une nouvelle découverte.<br>+1 |
-| `show mac-address-table` | Switch (Cisco) | Affiche quelle adresse MAC est vue sur quel port physique.<br>+1 |
+| `arp -a` | PC / Windows | Affiche la table de correspondance IP/MAC apprise.<br> |
+| `arp -d` | PC / Windows | Efface la table ARP pour forcer une nouvelle découverte.<br> |
+| `show mac-address-table` | Switch (Cisco) | Affiche quelle adresse MAC est vue sur quel port physique.<br> |
 | `show arp` | Routeur (Cisco) | Affiche la table ARP du routeur. |
